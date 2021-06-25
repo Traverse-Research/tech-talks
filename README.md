@@ -1,3 +1,5 @@
+[![Banner](banner.png)](https://traverseresearch.nl)
+
 # Traverse Research
 A collection of public technical presentations/talks given by Traverse Research.
 
