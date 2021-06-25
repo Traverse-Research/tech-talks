@@ -2,6 +2,6 @@
 A collection of public technical presentations/talks given by Traverse Research.
 
 ## Presentations
-- [Dx12 Bindless Rendering](https://drive.google.com/file/d/1mjpWs07PmFKVt9ct9aSAtDaDZBx4ky7t/view?usp=sharing) A technical presentation to create a bindless Dx12 rendering pipeline. 
+- [Dx12 Bindless Rendering](https://github.com/Traverse-Research/tech-talks/blob/main/Presentations/Dx12Bindless/Bindless%20rendering%20Traverse%20Research.pptx.pdf) A technical presentation to create a bindless Dx12 rendering pipeline. 
 
 ## Talks
